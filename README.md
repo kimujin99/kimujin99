@@ -1,8 +1,18 @@
 <div align=center>
+  <h1>✨ KIMUJIN ✨</h1>
+</div>
+<div align=center>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimujin99&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomatoo3o)](https://solved.ac/tomatoo3o/)
+  
+</div>
+</br></br>
+<div align=center>
   <h2>🌱SKILLS</h2>
 </div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   </br>
