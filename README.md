@@ -5,6 +5,7 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimujin99&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomatoo3o)](https://solved.ac/tomatoo3o/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimujin99&langs_count=10&layout=compact)](https://github.com/kimujin99/kimujin99)
   
 </div>
 </br></br>
