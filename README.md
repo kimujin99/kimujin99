@@ -7,7 +7,7 @@ I entered the world of Java programming through a government-funded education pr
 ### 💖 __< Contact Me >__ 💖
 [![](https://velog.velcdn.com/images/kimujin99/post/ffd60979-1200-47b9-b3f6-bdb873709067/image.png)](https://florentine-aries-53f.notion.site/JAVA-b886e6740f5e4347b50ce4841f4aa7fc)
 [![](https://velog.velcdn.com/images/kimujin99/post/3b888ff9-3f51-466a-8fdc-0de1970924a3/image.png)](https://velog.io/@kimujin99)
-[![](https://velog.velcdn.com/images/kimujin99/post/2bc243c2-40b0-432c-adc3-db129ea340cb/image.png)](tomatoo3o97@gmail.com)
+[![](https://velog.velcdn.com/images/kimujin99/post/2bc243c2-40b0-432c-adc3-db129ea340cb/image.png)](https://tomatoo3o97@gmail.com)
 
 </br></br>
 
