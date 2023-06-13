@@ -1,10 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIMUJIN99&fontSize=90" />
 
-# ✨ KIMUJIN ✨
-<h3>| Back-End Engineer</h3> <h3>| Junior</h3>
+### Back-End Engineer  |  Junior</h3>
 
 I entered the world of Java programming through a government-funded education program and am now striving to become a skilled developer. Java is my primary programming language, and I am using Notion and Velog to post about my development experiences.<br>
 
-### 💖 < Contact Me > 💖
+### 💖 __< Contact Me >__ 💖
 [![](https://velog.velcdn.com/images/kimujin99/post/ffd60979-1200-47b9-b3f6-bdb873709067/image.png)](https://florentine-aries-53f.notion.site/JAVA-b886e6740f5e4347b50ce4841f4aa7fc)
 [![](https://velog.velcdn.com/images/kimujin99/post/3b888ff9-3f51-466a-8fdc-0de1970924a3/image.png)](https://velog.io/@kimujin99)
 [![](https://velog.velcdn.com/images/kimujin99/post/2bc243c2-40b0-432c-adc3-db129ea340cb/image.png)](tomatoo3o97@gmail.com)
