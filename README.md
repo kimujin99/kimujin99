@@ -1,5 +1,17 @@
+
+# ✨ KIMUJIN ✨
+<h3>| Back-End Engineer</h3> <h3>| Junior</h3>
+
+I entered the world of Java programming through a government-funded education program and am now striving to become a skilled developer. Java is my primary programming language, and I am using Notion and Velog to post about my development experiences.<br>
+
+### 💖 < Contact Me > 💖
+[![notion_logo](https://github.com/kimujin99/kimujin99/assets/87636036/96e2d365-79b6-4938-884d-fcd5206378bb)](https://florentine-aries-53f.notion.site/JAVA-b886e6740f5e4347b50ce4841f4aa7fc)
+[![velog_logo](https://github.com/kimujin99/kimujin99/assets/87636036/9ef1a2d2-2be3-4a12-9455-178e3dd0f111)](https://velog.io/@kimujin99)
+
+</br></br>
+
 <div align=center>
-  <h1>✨ KIMUJIN ✨</h1>
+  <h2>🌱GITHUB</h2>
 </div>
 <div align=center>
 
@@ -23,7 +35,6 @@
   </br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
 </br>
 <!--
