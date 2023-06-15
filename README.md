@@ -4,7 +4,12 @@
 
 I entered the world of Java programming through a government-funded education program and am now striving to become a skilled developer. Java is my primary programming language, and I am using Notion and Velog to post about my development experiences.<br>
 
-</br></br>
+### 📗 Blog
+<p>
+  <a href="https://velog.io/@kimujin99"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haero_kim"/></a>
+</p>
+
+</br>
 
 ### 📑 STATS
 **| GITHUB |**
@@ -16,7 +21,7 @@ I entered the world of Java programming through a government-funded education pr
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomatoo3o)](https://solved.ac/tomatoo3o/)
 
-</br></br>
+</br>
 
 ### 📚 TECH STACK
 <p>
@@ -31,7 +36,7 @@ I entered the world of Java programming through a government-funded education pr
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">&nbsp 
 </p>
 
-
+</br>
 <!--
 **kimujin99/kimujin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
